@@ -143,4 +143,5 @@ while running:
     pygame.draw.rect(screen, GREEN, (0, ground_y + size, WIDTH, 20))
     pygame.display.flip()
     clock.tick(60)
+    print ("huy thong minh")
 pygame.quit()
